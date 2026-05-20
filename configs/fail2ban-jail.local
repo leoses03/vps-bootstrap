@@ -1,0 +1,4 @@
+[sshd]
+enabled = true
+bantime = 3600
+maxretry = 5
